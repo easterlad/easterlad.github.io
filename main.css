@@ -10,3 +10,12 @@ body {
 h1 {
 	text-align: center;
 }
+
+.hero {
+  color: #ffffff;
+  background-image: url("http://www.planwallpaper.com/static/images/Light-Wood-Background-Wallpaper.jpg");
+  background-size: cover;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	padding: 250px 0;
+	margin: 30px;
+}
